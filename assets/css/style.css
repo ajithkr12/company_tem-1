@@ -1,31 +1,4 @@
-/*
-Author       : Theme-Family
-Template Name: Al-Muhsi - Multipurpose One Page Bootstrap Template
-Version      : 1.0
-*/
-/*=============================================================
-    CSS INDEX
-    =============================
-    01. GENERAL STYLE (body, link color, SECTION TITLE, PRELOADER, BTN, SECTION PADDING, SCROLL etc)
-    02. START BOOTSTRAP NAVIGATION OVERRIDES
-    03. START HOME DESIGN
-		---Home Video
-		---START SLICK SLIDER DESIGN
-    04. START ABOUT DESIGN(Personal Info List Style,Resume Style, Skills Style )
-		---START COUNTER DESIGN
-	05. START TEAM DESIGN
-    06. START PROMOTION OFFER DESIGN
-	07. START SERVICE DESIGN
-	08. START GALLERY DESIGN
-	09. START PORTFOLIO DESIGN
-	10. START TESTIMONIAL DESIGN
-	11. START PRICING DESIGN
-	12. START NEWSLETTER DESIGN
-    13. START BLOG DESIGN
-    14. START COMPANY BRAND LOGO DESIGN 
-    15. START CONTACT DESIGN (START MAP DESIGN)
-    16. START FOOTER DESIGN
-  =============================================================*/
+
 /*
 * ----------------------------------------------------------------------------------------
 * 01.GENERAL STYLE
@@ -50,7 +23,8 @@ body {
 	--thm-white: #ffffff;
 	--thm-eee: #eeeeee;
 	--thm-ddd: #dddddd;
-	--thm-f6: #F1F8FF;
+	/* --thm-f6: #F1F8FF; */
+	--thm-f6: #2d3436;
 	--thm-fb: #f6f6f6;
 	--thm-p: #767676;
 }
