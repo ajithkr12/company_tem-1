@@ -41,7 +41,7 @@ body {
 	--thm-fb: #f6f6f6;
 	--thm-p: #767676;
 } */
-:root {
+/* :root {
 	--thm-font: 'Poppins', sans-serif;
 	--thm-base: #161E54;
 	--thm-color: #FF5151;
@@ -52,9 +52,20 @@ body {
 	--thm-f6: #161E54;
 	--thm-fb: #f6f6f6;
 	--thm-p: #767676;
+} */
+
+:root {
+	--thm-font: 'Poppins', sans-serif;
+	--thm-base: #4B6587;
+	--thm-color: #049c95;
+	--thm-black: #4B6587;
+	--thm-white: #ffffff;
+	--thm-eee: #eeeeee;
+	--thm-ddd: #dddddd;
+	--thm-f6: #4B6587;
+	--thm-fb: #f6f6f6;
+	--thm-p: #767676;
 }
-
-
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: var(--thm-font);
@@ -1611,7 +1622,7 @@ to {
   }
   .scene .card .card__face--back {
 	transform: rotateY(0.5turn);
-	background-color: #161E54;
+	background-color: var(--thm-f6);
 	border-radius: 4%;
 	font-size: 12px;
 	
@@ -1670,7 +1681,7 @@ to {
 		}
 		.scene .card .card__face--back {
 		  transform: rotateX(0.5turn);
-		  background-color: #161E54;
+		  background-color: var(--thm-f6);
 		  border-radius: 4%; 
 	
 		 
