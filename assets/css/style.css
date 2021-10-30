@@ -15,44 +15,7 @@ body {
 	font-size: 14px;
 	color:  var(--thm-p);
 }
-/* :root {
-	--thm-font: 'Poppins', sans-serif;
-	--thm-base: #17bebb;
-	--thm-color: #0d9fc4;
-	--thm-black: #2d3436;
-	--thm-white: #ffffff;
-	--thm-eee: #eeeeee;
-	--thm-ddd: #dddddd;
-	--thm-f6: #2d3436;
-	--thm-fb: #f6f6f6;
-	--thm-p: #767676;
-} */
 
-
-/* :root {
-	--thm-font: 'Poppins', sans-serif;
-	--thm-base: #004fb6;
-	--thm-color: #0d9fc4;
-	--thm-black: #2d3436;
-	--thm-white: #ffffff;
-	--thm-eee: #eeeeee;
-	--thm-ddd: #dddddd;
-	--thm-f6: #2d3436;
-	--thm-fb: #f6f6f6;
-	--thm-p: #767676;
-} */
-/* :root {
-	--thm-font: 'Poppins', sans-serif;
-	--thm-base: #161E54;
-	--thm-color: #FF5151;
-	--thm-black: #161E54;
-	--thm-white: #ffffff;
-	--thm-eee: #eeeeee;
-	--thm-ddd: #dddddd;
-	--thm-f6: #161E54;
-	--thm-fb: #f6f6f6;
-	--thm-p: #767676;
-} */
 
 :root {
 	--thm-font: 'Poppins', sans-serif;
