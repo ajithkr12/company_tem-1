@@ -726,10 +726,12 @@ to {
 	position:relative;
 }
 .atf-about-content {
-	border:1px solid var(--thm-eee);
+	border:2px solid var(--thm-eee);
 	padding: 40px 25px;
 	transition:0.3s ease-in-out;
 	-webkit-transition:0.3s ease-in-out;
+	border-radius: 2%;
+	
 }
 .atf-about-content:hover {
 	-webkit-box-shadow:0 0 15px rgba(0,0,0,0.1);
@@ -777,7 +779,9 @@ to {
 	color: var(--thm-color);
 	font-size: 45px;
 	text-align: center;
-	border-radius: 30% 70% 59% 41%/30% 38% 62% 70%
+	/* border-radius: 30% 70% 59% 41%/30% 38% 62% 70% ;*/
+	border-radius: 50%;
+
 }
 .atf-about-content:hover .atf-about-icon i {
 	background:var(--thm-color);
