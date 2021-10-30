@@ -57,7 +57,8 @@ body {
 :root {
 	--thm-font: 'Poppins', sans-serif;
 	--thm-base: #4B6587;
-	--thm-color: #049c95;
+	/* --thm-color: #049c95; */
+	--thm-color: #FF5151;
 	--thm-black: #4B6587;
 	--thm-white: #ffffff;
 	--thm-eee: #eeeeee;
