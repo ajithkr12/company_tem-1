@@ -1607,7 +1607,7 @@ to {
 	color: #fff;
    
   }
-  @media screen and (max-width: 600px)
+  @media screen and (max-width: 560px)
   {
 	  .scene{
 		  width: 240px;
@@ -1653,7 +1653,7 @@ to {
 		 
 		}
 		.scene .card .card__face--back {
-		  transform: rotateX(0.5turn);
+		  transform: rotateY(0.5turn);
 		  background-color: var(--thm-f6);
 		  border-radius: 4%; 
 	
